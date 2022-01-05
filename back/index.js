@@ -2,7 +2,7 @@ import  express  from "express";
 import cors from "cors";
 import  Mongoose  from "mongoose";
 import nodemailer from "nodemailer"
-import bcrypt from "bcrypt";
+
 // configration karna
 // ksjhflsijfhlkjsh flsdh flkjhsdl kfjhgit 
 const port = process.env.PORT || 5008;
