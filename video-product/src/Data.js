@@ -89,6 +89,16 @@ const products = [
       rating: 4,
       numReviews: 12,
     },
+    {
+      _id: "6",
+      name: "Apple Watch",
+      image:
+        "https://images.unsplash.com/photo-1579586337278-3befd40fd17a?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8YXBwbGUlMjB3YXRjaHxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+  
+      price: 29.99,
+      rating: 4,
+      numReviews: 12,
+    },
   ];
   
   export default products;
